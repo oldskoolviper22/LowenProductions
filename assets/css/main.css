@@ -2096,7 +2096,7 @@
 
 	#header {
 		position: relative;
-		background-image: url("/images/BostonPurple.jpg");
+		background-image: url("images/BostonPurple.JPG");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
